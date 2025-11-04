@@ -5,3 +5,8 @@
     </summary>
   </ul>
 </div>
+<div align="center">
+  <a href="https://codeforces.com/profile/aminfdy">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
+  </a>
+</div>
