@@ -7,6 +7,6 @@
 </div>
 <div align="center">
   <a href="https://codeforces.com/profile/aminfdy">
-    <img src="https://img.shields.io/badge/Codeforces-aminefdy-black?style=for-the-badge&logo=Codeforces&logoColor=white&labelColor=black" alt="Codeforces">
+    <img src="https://img.shields.io/badge/Codeforces-aminfdy-black?style=for-the-badge&logo=Codeforces&logoColor=white&labelColor=black" alt="Codeforces">
   </a>
 </div>
