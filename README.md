@@ -1,7 +1,7 @@
 <div id="user-content-toc" style="margin-top: -25px;">
   <ul align="center" style="list-style: none; margin: 0;">
     <summary>
-      <h1 style="margin: 0;">𝕯𝖊𝖇𝖚𝖌𝖌𝖎𝖓𝖌 𝕷𝖎𝖋𝖊</h1>
+      <h1 style="margin: 0;">𝐓𝐨 𝐃𝐞𝐛𝐮𝐠 𝐋𝐢𝐟𝐞 𝐘𝐨𝐮 𝐌𝐮𝐬𝐭 𝐅𝐢𝐫𝐬𝐭 𝐃𝐞𝐛𝐮𝐠 𝐓𝐡𝐞 𝐌𝐢𝐧𝐝</h1>
     </summary>
   </ul>
 </div>
