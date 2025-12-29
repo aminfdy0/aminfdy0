@@ -1,8 +1,6 @@
-<div align="center" style="margin-top: -25px;">
-  <h1 style="margin: 0; text-align: center;">𝐀𝐌𝐈𝐍-𝐅𝐃𝐘</h1>
-</div>
+<h1 align="center">𝖠𝖬𝖨𝖭-𝖥𝖣𝖸</h1>
 
-<div align="center" style="margin-top: 14px;">
+<div align="center" style="margin-top: 15px;">
   <a href="https://codeforces.com/profile/aminfdy">
     <img src="https://img.shields.io/badge/Codeforces-aminfdy-black?style=for-the-badge&logo=Codeforces&logoColor=white&labelColor=black" alt="Codeforces">
   </a>
