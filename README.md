@@ -14,7 +14,10 @@
 
 </div>
 
-<p align="center" style="margin-top: 15px; font-size: 17px;">
+<br>
+
+<p align="center" style="font-size: 17px;">
   Discord Username: <strong>1.13.14</strong><br>
-  For Questions, Collaboration, Problem Discussions.
+  For questions, collaboration, and problem discussions.
 </p>
+
